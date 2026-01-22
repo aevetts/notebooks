@@ -1,2 +1,2 @@
 # notebooks
-Public notebooks
+Public notebooks for binder.
